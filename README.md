@@ -2,9 +2,9 @@
 <h3 align="center">A System Engineer passionate about Linux</h3>
 
 
-- 🌱 I’m currently learning **Terraform**
+- 🌱 I’m currently learning **Kubernetes**
 
-- 💬 Ask me about **Ansible and Debian**
+- 💬 Ask me about **Ansible, Terraform, and Debian**
 
 - 📫 How to reach me **duviful@protonmail.com**
 
